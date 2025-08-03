@@ -13,7 +13,7 @@ const Skills = () => {
     {
       title: "Web Technologies",
       icon: <Monitor className="w-5 h-5" />,
-      skills: ["HTML", "CSS"],
+      skills: ["HTML", "CSS", "JavaScript"],
       color: "from-purple-500 to-pink-600"
     },
     {
